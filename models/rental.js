@@ -1,5 +1,5 @@
-const Joi = require('joi');
 const mongoose = require('mongoose');
+const Joi = require('joi');
 
 
 const Rental = mongoose.model('Rental', new mongoose.Schema({
@@ -38,7 +38,7 @@ const Rental = mongoose.model('Rental', new mongoose.Schema({
         required: true,
         min: 0,
         max: 255
-      }   
+      }  
     }),
     required: true
   },
