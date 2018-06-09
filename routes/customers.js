@@ -6,7 +6,6 @@ const { Customer, validate } = require('../models/customer');
 
 router.get('/', async (req, res) => {
   const customers = await Customer.find().sort('name');
-
   res.send(customers);
 });
 
