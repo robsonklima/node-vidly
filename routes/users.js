@@ -8,7 +8,6 @@ const config = require('config');
 const auth = require('../middleware/auth');
 const { User, validate } = require('../models/user');
 
-
 router.get('/me', auth, async (req, res) => {
   const user = await User.findById(req.user._id).select('-password');
   res.send(user);
@@ -30,6 +29,5 @@ router.post('/', async (req, res) => {
 
   res.header('x-auth-token', token).send(_.pick(user, ['_id', 'name', 'email']));
 });
-
 
 module.exports = router;

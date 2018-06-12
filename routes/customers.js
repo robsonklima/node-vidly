@@ -4,7 +4,6 @@ const router = express.Router();
 const auth = require('../middleware/auth');
 const { Customer, validate } = require('../models/customer');
 
-
 router.get('/', async (req, res) => {
   const customers = await Customer.find().sort('name');
   res.send(customers);
@@ -50,6 +49,5 @@ router.get('/:id', async (req, res) => {
 
   res.send(customer);
 });
-
 
 module.exports = router;

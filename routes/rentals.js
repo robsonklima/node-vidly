@@ -9,7 +9,6 @@ const { Customer } = require('../models/customer');
 
 Fawn.init(mongoose);
 
-
 router.get('/', async (req, res) => {
   const rentals = await Rental.find().sort('-dateOut');
   res.send(rentals);
@@ -60,6 +59,5 @@ router.get('/:id', async (req, res) => {
 
   res.send(rental);
 });
-
 
 module.exports = router; 
