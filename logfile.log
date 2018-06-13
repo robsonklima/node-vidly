@@ -371,3 +371,324 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:27:51.367Z"}
 {"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:27:57.032Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:27:57.050Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:31:35.046Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:31:35.059Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:32:40.834Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:32:40.846Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:32:52.115Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:32:52.266Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:33:10.509Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:33:10.525Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:34:14.836Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:34:14.849Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:34:27.628Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:34:27.788Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:35:39.634Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:35:39.645Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:36:40.293Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:36:40.309Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:37:23.435Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:37:23.448Z"}
+{"message":"Genre validation failed: isActive: Path `isActive` is required.","errors":{"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:37:23.577Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:37:39.993Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:37:40.011Z"}
+{"message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5)., isActive: Path `isActive` is required.","errors":{"name":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","name":"ValidatorError","properties":{"message":"Path `{PATH}` (`{VALUE}`) is shorter than the minimum allowed length (5).","type":"minlength","minlength":5,"path":"name","value":"1234"},"kind":"minlength","path":"name","value":"1234","$isValidatorError":true},"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: name: Path `name` (`1234`) is shorter than the minimum allowed length (5)., isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:37:40.081Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:38:54.064Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:38:54.080Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:39:42.140Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:39:42.157Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:40:05.818Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:40:05.832Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:40:25.763Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:40:25.780Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:40:44.934Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:40:44.950Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:40:54.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:40:54.880Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:42:58.894Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:42:59.109Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:43:27.274Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:43:27.292Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:43:45.420Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:43:45.451Z"}
+{"message":"Genre validation failed: isActive: Path `isActive` is required.","errors":{"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:43:45.621Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:43:58.288Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:43:58.304Z"}
+{"message":"Genre validation failed: isActive: Path `isActive` is required.","errors":{"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:43:58.379Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:44:17.419Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:44:17.440Z"}
+{"message":"Genre validation failed: isActive: Path `isActive` is required.","errors":{"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:44:17.521Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:44:23.472Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:44:23.490Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:44:49.669Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:44:49.685Z"}
+{"message":"Genre validation failed: isActive: Path `isActive` is required.","errors":{"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:44:49.760Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:45:20.131Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:45:20.149Z"}
+{"message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5)., isActive: Path `isActive` is required.","errors":{"name":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","name":"ValidatorError","properties":{"message":"Path `{PATH}` (`{VALUE}`) is shorter than the minimum allowed length (5).","type":"minlength","minlength":5,"path":"name","value":"1234"},"kind":"minlength","path":"name","value":"1234","$isValidatorError":true},"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: name: Path `name` (`1234`) is shorter than the minimum allowed length (5)., isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:45:20.229Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:45:29.839Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:45:30.158Z"}
+{"message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5)., isActive: Path `isActive` is required.","errors":{"name":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","name":"ValidatorError","properties":{"message":"Path `{PATH}` (`{VALUE}`) is shorter than the minimum allowed length (5).","type":"minlength","minlength":5,"path":"name","value":"1234"},"kind":"minlength","path":"name","value":"1234","$isValidatorError":true},"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: name: Path `name` (`1234`) is shorter than the minimum allowed length (5)., isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:45:30.239Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:45:39.770Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:45:40.096Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:45:53.353Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:45:53.656Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:45:56.777Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:45:57.079Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:47:27.538Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:47:27.549Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:48:46.987Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:48:46.998Z"}
+{"message":"Genre validation failed: isActive: Path `isActive` is required.","errors":{"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:48:47.073Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:49:12.978Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:49:13.000Z"}
+{"message":"Genre validation failed: isActive: Path `isActive` is required.","errors":{"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:49:13.099Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:49:16.522Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:49:16.538Z"}
+{"message":"Genre validation failed: isActive: Path `isActive` is required.","errors":{"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:49:16.620Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:49:55.797Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:49:55.815Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:50:04.167Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:50:04.495Z"}
+{"message":"Genre validation failed: isActive: Path `isActive` is required.","errors":{"isActive":{"message":"Path `isActive` is required.","name":"ValidatorError","properties":{"message":"Path `{PATH}` is required.","type":"required","path":"isActive"},"kind":"required","path":"isActive","$isValidatorError":true}},"_message":"Genre validation failed","stack":"ValidationError: isActive: Path `isActive` is required.\n    at new ValidationError (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/error/validation.js:27:11)\n    at model.Object.<anonymous>.Document.invalidate (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1846:32)\n    at p.doValidate.skipSchemaValidators (/Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/document.js:1714:17)\n    at /Users/robsonlima/Documents/Workspace/node-js/mosh-course/vidly/node_modules/mongoose/lib/schematype.js:808:9\n    at process._tickCallback (internal/process/next_tick.js:112:11)","name":"ValidationError","level":"error","timestamp":"2018-06-13T18:50:04.595Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:50:12.036Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:50:12.050Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:50:31.888Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:50:31.907Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:50:39.877Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:50:39.892Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T18:51:11.995Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T18:51:12.013Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T19:00:51.588Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T19:00:51.607Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T19:00:58.665Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T19:00:58.685Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T19:01:08.666Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T19:01:08.686Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T19:07:42.858Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T19:07:42.881Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T19:08:04.621Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T19:08:04.641Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T19:08:08.872Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T19:08:08.999Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T19:08:17.225Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T19:08:17.245Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T19:59:24.363Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T19:59:24.381Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:00:00.425Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:00:00.442Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:12:03.111Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:12:03.123Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:12:58.820Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:12:58.834Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:13:12.323Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:13:12.442Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:13:48.995Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:13:49.006Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:13:49.675Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:13:58.608Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:13:58.622Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:13:59.538Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:14:09.338Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:14:09.520Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:14:10.171Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:15:04.512Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:15:04.524Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:15:05.372Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:16:56.911Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:16:56.930Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:16:56.921Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:17:07.309Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:17:07.379Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:17:07.595Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:17:07.608Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:18:00.809Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:18:00.820Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:18:01.163Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:18:01.596Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:18:32.343Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:18:32.362Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:18:32.803Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:18:33.271Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:20:19.568Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:20:19.584Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:20:19.979Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:20:19.998Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:21:21.305Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:21:21.319Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:21:21.728Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:21:21.749Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:21:44.554Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:21:44.571Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:21:44.930Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:21:45.207Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:22:17.565Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:22:17.581Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:22:17.986Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:22:18.020Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:22:21.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:22:21.042Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:22:21.341Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:22:21.360Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:22:36.033Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:22:36.052Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:22:36.392Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:22:36.426Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:22:39.317Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:22:39.341Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:22:39.778Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:22:39.817Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:23:00.622Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:23:00.645Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:23:01.160Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:23:01.182Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:23:04.962Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:23:04.980Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:23:05.312Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:23:05.335Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:23:39.505Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:23:39.524Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:23:39.905Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:23:39.934Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:23:45.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:23:45.509Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:23:45.873Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:23:46.036Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:23:48.172Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:23:48.419Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:23:48.727Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:23:48.904Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:17.288Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:17.341Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:17.740Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:17.839Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:23.446Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:23.585Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:23.940Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:23.959Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:26.550Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:26.710Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:27.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:27.044Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:31.427Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:31.591Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:31.911Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:31.926Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:40.174Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:40.192Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:40.523Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:40.745Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:42.932Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:43.149Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:43.461Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:43.482Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:46.484Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:46.500Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:24:46.805Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:24:46.823Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:26:53.637Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:26:53.649Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:26:54.373Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:26:54.390Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:28:11.255Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:28:11.268Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:28:11.554Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:28:11.569Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:28:49.561Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:28:49.573Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:28:50.029Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:28:50.044Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:29:24.322Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:29:24.334Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:29:24.659Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:29:24.673Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:29:45.205Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:29:45.223Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:29:45.575Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:29:45.590Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:32:06.891Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:32:06.904Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:32:07.251Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:32:07.268Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:32:30.188Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:32:30.435Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:32:30.742Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:32:30.759Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:32:59.477Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:32:59.490Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:32:59.797Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:32:59.814Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:33:43.697Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:33:43.708Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:33:44.400Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:33:44.756Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:33:49.771Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:33:49.783Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:33:50.060Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:33:50.073Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:34:24.116Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:34:24.129Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:34:24.616Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:34:24.634Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:34:51.995Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:34:52.007Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:34:52.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:34:52.331Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:35:06.228Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:35:06.245Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:35:06.575Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:35:06.592Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:35:41.907Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:35:42.229Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T20:35:42.535Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T20:35:42.552Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:54:15.766Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:54:15.963Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:54:16.707Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:54:16.724Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:54:56.171Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly.","timestamp":"2018-06-13T22:54:56.224Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:55:14.423Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:55:14.540Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:55:14.512Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:55:14.684Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:55:54.315Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:55:54.379Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:55:54.454Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:55:54.504Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:56:21.733Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:56:21.789Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:56:21.869Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:56:21.912Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:56:34.858Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:56:34.869Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:56:34.937Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:56:35.000Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:57:47.629Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:57:47.684Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:58:09.308Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:58:09.374Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:58:10.405Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:58:10.561Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:58:17.941Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:58:17.995Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T22:58:18.399Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T22:58:18.502Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T23:02:49.126Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T23:02:49.144Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T23:03:04.567Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T23:03:04.588Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T23:03:04.644Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T23:03:04.713Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T23:04:26.242Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T23:04:26.253Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T23:04:26.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T23:04:26.373Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T23:04:50.485Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T23:04:50.546Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T23:04:50.951Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T23:04:51.057Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T23:05:05.468Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T23:05:05.489Z"}
+{"level":"info","message":"Listening on port 3000.","timestamp":"2018-06-13T23:05:05.846Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests.","timestamp":"2018-06-13T23:05:05.984Z"}
