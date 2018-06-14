@@ -1,4 +1,4 @@
 {
     "jwtPrivateKey": "vidly_jwtPrivateKey",
-    "db": "MONGODB_URI"
+    "db": "MONGODB_URI" 
   }
